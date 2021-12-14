@@ -1,6 +1,10 @@
+# Deploy?
+The site is hosted on firebase ariaFYI (tech@arianee.org is owner).
+
 # Aria.xyz website
 
 The aria.xyz website uses [Modern Business](https://startbootstrap.com/templates/modern-business/) website template for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).
+
 
 ## Status
 
